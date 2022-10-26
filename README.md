@@ -1,5 +1,4 @@
-# Rozwiązania zadań
-## _Wstęp do programowania Python_
+# Wstęp do programowania Python
 
 ![Python logo](https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png)
 
