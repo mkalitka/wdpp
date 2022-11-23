@@ -12,7 +12,7 @@ def szczesliwa(n):
 
 ilosc_liczb = 0
 for i in range(1, 100001):
-    if pierwsza(i) == True and szczesliwa(i) == True:
+    if pierwsza(i) and szczesliwa(i):
         print(i)
         ilosc_liczb += 1
 
