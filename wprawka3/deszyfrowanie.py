@@ -4,7 +4,7 @@ with open('szyfr.txt', 'r') as f:
 
 tekst = tekst.split()
 
-kod = 'kon'
+kod = 'jaranie'
 haslo = kod
 while len(haslo) < len(tekst):
 	haslo += kod

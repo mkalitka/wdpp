@@ -6,7 +6,7 @@ deszyfr = ''
 for i in tekst:
 	deszyfr += i
 
-kod = 'kon'
+kod = 'jaranie'
 haslo = kod
 
 while len(haslo) <= len(deszyfr):
